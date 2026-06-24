@@ -2,7 +2,7 @@ import { defineAstroPaperConfig } from "./src/types/config";
 
 export default defineAstroPaperConfig({
   site: {
-    url: "https://astro-paper.pages.dev/",
+    url: "https://nashonlyy-dev.github.io/ged-germeny-blog/",
     title: "ged-germeny-blog",
     description: "Learn ged. Get tips and tricks to pass ged test. GED test prep and study guide.",
     author: "Nash",
