@@ -5,7 +5,7 @@ export default defineAstroPaperConfig({
     url: "https://nashonlyy-dev.github.io/ged-germeny-blog/",
     title: "ged-germeny-blog",
     description: "Learn ged. Get tips and tricks to pass ged test. GED test prep and study guide.",
-    author: "Nash",
+    author: "Nashdev",
     profile: "https://nash-portfolio-one.vercel.app",
     ogImage: "default-og.jpg",
     lang: "en",
