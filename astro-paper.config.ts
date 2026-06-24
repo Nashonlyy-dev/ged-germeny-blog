@@ -3,13 +3,13 @@ import { defineAstroPaperConfig } from "./src/types/config";
 export default defineAstroPaperConfig({
   site: {
     url: "https://astro-paper.pages.dev/",
-    title: "AstroPaper",
-    description: "A minimal, responsive and SEO-friendly Astro blog theme.",
-    author: "Sat Naing",
-    profile: "https://satna.ing",
+    title: "ged-germeny-blog",
+    description: "Learn ged. Get tips and tricks to pass ged test. GED test prep and study guide.",
+    author: "Nash",
+    profile: "https://nash-portfolio-one.vercel.app",
     ogImage: "default-og.jpg",
     lang: "en",
-    timezone: "Asia/Bangkok",
+    timezone: "Asia/Yangon",
     dir: "ltr",
   },
   posts: {
